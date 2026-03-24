@@ -1,0 +1,5 @@
+{
+  "name": "Bulk Mailer Pro",
+  "description": "A production-ready bulk email sending tool with Gmail SMTP, CSV support, personalization, and real-time progress tracking.",
+  "requestFramePermissions": []
+}
